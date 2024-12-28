@@ -1,12 +1,13 @@
-# English version [🇫🇷 version française](#version-française)
+# English version 
+([version française](#version-française))
 ## Hi! I'm Nikita
 - 🇫🇷 I'm an IT student from Strasbourg
 - 🎒 I'm studying at the Robert Schuman Institute of Technology in Strasbourg
 - 🧑‍🏫 Right now I'm tinkering on... a Pokedex using Vue and Node js
 - ❤️ I'm passionate about clean code, OOP, AI and music!
-
-
-
+<br>
+<br>
+<br>
 # Version française
 ## Salut! Je m'appelle Nikita
 - 🇫🇷 Je suis un étudiant en informatique de Strasbourg
